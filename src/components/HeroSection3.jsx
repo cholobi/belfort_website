@@ -28,7 +28,7 @@ export default function HeroSection3() {
                 <div className="grid  my-4 justify-between  p-4 w-full grid-cols-1 lg:grid-cols-3">
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
                         <p className="text-3xl text-center my-4">
-                            <i class="ri-dice-fill "></i>
+                        <i class="ri-box-3-fill"></i>
                         </p>
                         <h1 className="text text-3xl text-center mb-4">
                             Mining Solutions
@@ -39,7 +39,7 @@ export default function HeroSection3() {
                     </div>
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
                         <p className="text-3xl text-center my-4">
-                            <i class="ri-dice-fill "></i>
+                        <i class="ri-box-3-fill"></i>
                         </p>
                         <h1 className="text text-3xl text-center mb-4">
                             Mining Solutions
@@ -50,7 +50,7 @@ export default function HeroSection3() {
                     </div>
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
                         <p className="text-3xl text-center my-4">
-                            <i class="ri-dice-fill "></i>
+                        <i class="ri-box-3-fill"></i>
                         </p>
                         <h1 className="text text-3xl text-center mb-4">
                             Manufacturing Solutions

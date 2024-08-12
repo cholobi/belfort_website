@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      sans: ["system-ui"],
+      sans: ["Roboto", "Poppins", "sans-serif"],
     },
   },
   plugins: [],

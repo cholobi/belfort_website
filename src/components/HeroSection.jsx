@@ -45,8 +45,8 @@ export default function HeroSection() {
             </div>
 
           </div>
-          <div className="px-4 lg:flex lg:justify-center lg:items-center bg-gray-100 ">
-            <img src={headeImgCopy} alt="" className="p-4" />
+          <div className="px-4 lg:flex  lg:justify-center lg:items-center bg-gray-100">
+            <img src={headeImgCopy} className="flex" />
           </div>
         </div>
       </div>
