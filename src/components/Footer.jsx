@@ -16,8 +16,7 @@ export default function Footer() {
                 <div className="grid  my-4 justify-between  p-4 w-full grid-cols-1 lg:grid-cols-2">
                     <div className="flex flex-col gap-y-2 p-4">
                         <h1 className="text-3xl">
-                            {/* Find The Perfect Machinery Solutions */}
-                            CHOLOBI
+                            Find The Perfect Machinery Solutions
                         </h1>
 
                         <p className="text-sm">
