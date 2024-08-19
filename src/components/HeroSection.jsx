@@ -13,7 +13,7 @@ const navigation = [
 export default function HeroSection() {
 
   return (
-    <div className='bg-white'>
+    <div className='bg-white animate-fade-left'>
       <div className='relative px-6 lg:px-8 pt-14 isolate flex justify-center items-center'>
         <div className="grid gap-x-12 lg:grid-cols-2 grid-cols-1">
           <div className=" px-10 flex flex-col gap-y-2 py-2">
