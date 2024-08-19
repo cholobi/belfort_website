@@ -11,7 +11,7 @@ export default function HeroSection3() {
 
 
     return (
-        <div className='bg-white '>
+        <div className='bg-white animate-fade-right'>
             <div className='relative px-6 lg:px-8 pt-14 isolate flex flex-col justify-center items-center'>
                 <div className="grid gap-x-12 p-4 w-3/5  grid-cols-1">
                     <p className=" p-2 text-4xl lg:text-sm text-center">
@@ -28,7 +28,7 @@ export default function HeroSection3() {
                 <div className="grid  my-4 justify-between  p-4 w-full grid-cols-1 lg:grid-cols-3">
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
                         <p className="text-3xl text-center my-4">
-                        <i class="ri-box-3-fill"></i>
+                        <i className="ri-box-3-fill"></i>
                         </p>
                         <h1 className="text text-3xl text-center mb-4">
                             Mining Solutions
@@ -39,7 +39,7 @@ export default function HeroSection3() {
                     </div>
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
                         <p className="text-3xl text-center my-4">
-                        <i class="ri-box-3-fill"></i>
+                        <i className="ri-box-3-fill"></i>
                         </p>
                         <h1 className="text text-3xl text-center mb-4">
                             Mining Solutions
@@ -50,7 +50,7 @@ export default function HeroSection3() {
                     </div>
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
                         <p className="text-3xl text-center my-4">
-                        <i class="ri-box-3-fill"></i>
+                        <i className="ri-box-3-fill"></i>
                         </p>
                         <h1 className="text text-3xl text-center mb-4">
                             Manufacturing Solutions

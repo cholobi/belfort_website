@@ -11,7 +11,7 @@ export default function HeroSection5() {
 
 
     return (
-        <div className='bg-white '>
+        <div className='bg-white animate-fade-right'>
             <div className='relative px-6 lg:px-8 pt-14 isolate flex flex-col justify-center items-center'>
                 <div className="grid gap-x-12 p-4 w-3/5  grid-cols-1">
                     <p className=" p-2 text-4xl lg:text-sm text-center">
@@ -43,13 +43,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -72,13 +72,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -101,13 +101,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -130,13 +130,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -162,13 +162,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -191,13 +191,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -220,13 +220,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>
@@ -249,13 +249,13 @@ export default function HeroSection5() {
                                 </p>
                                 <div className="flex justify-between gap-x-4 p-2">
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-linkedin-box-fill "></i>
+                                        <i className="ri-linkedin-box-fill "></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-twitter-fill"></i>
+                                        <i className="ri-twitter-fill"></i>
                                     </p>
                                     <p className="text-xl text-center my-2">
-                                        <i class="ri-dribbble-line"></i>
+                                        <i className="ri-dribbble-line"></i>
                                     </p>
                                 </div>
                             </div>

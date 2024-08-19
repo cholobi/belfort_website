@@ -15,7 +15,7 @@ export default function HeroSection2() {
 
 
     return (
-        <div className='bg-white '>
+        <div className='bg-white animate-fade-up'>
             <div className='relative px-6 lg:px-8 pt-14 isolate flex justify-center items-center'>
                 <div className="grid gap-x-12 lg:grid-cols-2 grid-cols-1">
                     <div className="px-4 flex justify-center items-center  bg-gray-100">

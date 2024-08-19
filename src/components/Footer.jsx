@@ -63,21 +63,21 @@ export default function Footer() {
 
                     <div className="flex flex-row justify-end items-end gap-x-4 p-4 w-full">
                         <a href="#">
-                            <i class="ri-linkedin-box-fill text-lg"></i>
+                            <i className="ri-linkedin-box-fill text-lg"></i>
                         </a>
                         <a href="#">
-                            <i class="ri-instagram-fill text-lg"></i>
+                            <i className="ri-instagram-fill text-lg"></i>
                         </a>
                         <a href="#">
-                            <i class="ri-twitter-x-fill text-lg"></i>
+                            <i className="ri-twitter-x-fill text-lg"></i>
                         </a>
                         <a href="#">
-                            <i class="ri-facebook-circle-fill text-lg"></i>
+                            <i className="ri-facebook-circle-fill text-lg"></i>
                         </a>
                     </div>
                 </div>
                 <div className="w-full ">
-                    <hr class="border-t border-black " />
+                    <hr className="border-t border-black " />
                 </div>
                 <div className="grid  my-4 justify-center items-center  p-4 w-full grid-cols-1 lg:grid-cols-1">
 
@@ -92,11 +92,7 @@ export default function Footer() {
                             Cookies Settings
                         </a>
                     </div>
-
-
                 </div>
-
-
             </div>
         </div>
     );

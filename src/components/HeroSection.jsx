@@ -1,6 +1,5 @@
-"use client";
-
-import { useState } from "react";
+import React from 'react'
+import { useState, useEffect, useRef } from "react";
 import { Dialog, DialogPanel, Button } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import headeImgCopy from '../assets/images/headeImgCopy.png';
@@ -12,14 +11,13 @@ const navigation = [
 ];
 
 export default function HeroSection() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <div className='bg-white '>
+    <div className='bg-white'>
       <div className='relative px-6 lg:px-8 pt-14 isolate flex justify-center items-center'>
         <div className="grid gap-x-12 lg:grid-cols-2 grid-cols-1">
           <div className=" px-10 flex flex-col gap-y-2 py-2">
-            <div className="text-4xl flex text-wrap">
+            <div className="text-4xl flex text-wrap ">
               Empowering Industries
             </div>
             <div className="text-4xl">

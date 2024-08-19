@@ -11,7 +11,7 @@ export default function HeroSection6() {
 
 
     return (
-        <div className='bg-white '>
+        <div className='bg-white animate-fade-right'>
             <div className='relative px-6 lg:px-8 pt-14 isolate flex flex-col justify-center items-center'>
                 <div className="grid  my-4 justify-between  p-4 w-full grid-cols-1 lg:grid-cols-2">
                     <div className=" flex-col gap-y-2 p-4 items-center justify-center">
@@ -34,9 +34,9 @@ export default function HeroSection6() {
                         <div className=" gap-y-4 grid lg:grid-cols-2 grid-cols-1 justify-center">
                             <div className=" flex flex-col gap-y-2 ml-28 items-center justify-center">
                                 <p className="text text-2xl">
-                                    <i class="ri-box-3-fill"></i>
+                                    <i className="ri-box-3-fill"></i>
                                 </p>
-                                <div class="w-px h-16 border-1 border-black bg-black"></div>
+                                <div className="w-px h-16 border-1 border-black bg-black"></div>
                             </div>
                             <div className=" flex flex-col gap-y-2 items-start">
                                 <h1 className="text text-md font-bold leading-6">
@@ -50,9 +50,9 @@ export default function HeroSection6() {
                         <div className=" gap-y-4 grid lg:grid-cols-2 grid-cols-1 justify-center">
                             <div className=" flex flex-col gap-y-2 ml-28 items-center justify-center">
                                 <p className="text text-2xl">
-                                    <i class="ri-box-3-fill"></i>
+                                    <i className="ri-box-3-fill"></i>
                                 </p>
-                                <div class="w-px h-16 border-1 border-black bg-black"></div>
+                                <div className="w-px h-16 border-1 border-black bg-black"></div>
                             </div>
                             <div className=" flex flex-col gap-y-2 items-start">
                                 <h1 className="text text-md font-bold leading-6">
@@ -66,9 +66,9 @@ export default function HeroSection6() {
                         <div className=" gap-y-4 grid lg:grid-cols-2 grid-cols-1 justify-center">
                             <div className=" flex flex-col gap-y-2 ml-28 items-center justify-center">
                                 <p className="text text-2xl">
-                                    <i class="ri-box-3-fill"></i>
+                                    <i className="ri-box-3-fill"></i>
                                 </p>
-                                <div class="w-px h-16 border-1 border-black bg-black"></div>
+                                <div className="w-px h-16 border-1 border-black bg-black"></div>
 
                             </div>
                             <div className=" flex flex-col gap-y-2 items-start">
@@ -83,9 +83,9 @@ export default function HeroSection6() {
                         <div className=" gap-y-4 grid lg:grid-cols-2 grid-cols-1 justify-center">
                             <div className=" flex flex-col gap-y-2 ml-28 items-center justify-center">
                                 <p className="text text-2xl">
-                                    <i class="ri-box-3-fill"></i>
+                                    <i className="ri-box-3-fill"></i>
                                 </p>
-                                <div class="w-px h-16 border-1 border-black bg-black"></div>
+                                <div className="w-px h-16 border-1 border-black bg-black"></div>
                             </div>
                             <div className=" flex flex-col gap-y-2 items-start">
                                 <h1 className="text text-md font-bold leading-6">

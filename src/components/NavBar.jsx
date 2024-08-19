@@ -7,9 +7,6 @@ const navigation = [
     { name: "Products", href: "#" },
     { name: "More", href: "#" },
 ];
-const getNavHeader = document.getElementById("nav_header");
-console.log(getNavHeader?.offsetTop);
-
 
 function NavBar() {
     const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
